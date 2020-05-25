@@ -1,0 +1,48 @@
+.transactions {
+  margin: 0rem auto;
+  text-align: center;
+}
+
+.transactions h4 {
+  letter-spacing: 5px;
+  background: lightgray;
+}
+
+.list {
+  background: lightgoldenrodyellow;
+  padding: 0.4rem;
+  border-bottom: 2px solid #ededed;
+}
+
+.icon {
+  background: white;
+}
+
+.image {
+  width: 5%;
+}
+
+.subtitle {
+  letter-spacing: 6px;
+  color: grey;
+  margin: 0.5rem auto;
+  background: #f3f3f3;
+}
+
+.list li {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0.2rem auto;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+}
+
+.delete {
+  width: 8%;
+  margin: 0 auto;
+}
+
+.fa-trash {
+  opacity: 0.7;
+  border: 1px dotted grey;
+}

@@ -1,0 +1,17 @@
+nav {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  margin: 0rem auto;
+}
+
+.title {
+  font-size: 2rem;
+  letter-spacing: 10px;
+  padding: 0.2rem;
+}
+
+.img {
+  width: 20%;
+}
